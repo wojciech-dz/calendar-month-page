@@ -1,0 +1,28 @@
+td {
+    font-size: 20px;
+}
+
+.month, .year {
+    font-size: 30px;
+}
+
+.day-labels {
+    border: double 1px black;
+}
+
+.month-table {
+    border: solid 1px black;
+}
+
+.day-label {
+    background-color: #EBB;
+}
+
+.day-box {
+    background-color: #EEF;
+}
+
+.day-label-red, .day-box-red, .month, .year {
+    color: yellow;
+    background-color: #F57;
+}
